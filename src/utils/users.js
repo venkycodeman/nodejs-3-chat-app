@@ -22,7 +22,7 @@ if(existingUser){
     }
 }
 
-//store user
+//store users
 const user = {
     id,
     userName,
